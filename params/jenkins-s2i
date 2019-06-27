@@ -1,0 +1,6 @@
+SOURCE_REPOSITORY_URL=https://github.com/eljeko/enablement-ci-cd.git
+NAME=jenkins
+SOURCE_REPOSITORY_CONTEXT_DIR=jenkins-s2i
+IMAGE_STREAM_NAMESPACE=slinguer-ci-cd
+SOURCE_REPOSITORY_USERNAME=lab12
+SOURCE_REPOSITORY_PASSWORD=yellow22
